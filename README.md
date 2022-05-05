@@ -1,8 +1,7 @@
 ### 👋 Hi, I’m Mikolaj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 If you see anything I can help you with, feel free to email me. mikolaj@syki.pl
+- 👀 I’m interested in WebDelepoment, 3D art and video editing.
+- 🌱 I’m currently learning Next.js to write my blog.
+- 📫 If you see anything I can help you with, feel free to email me. E-mail: mikolaj@syki.pl
 
 ### Connect with me:
 
@@ -23,4 +22,3 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-# xSyki
