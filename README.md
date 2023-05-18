@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mikolaj
 
-- 👀 I’m interested in Frontend Development, 3D art and video editing.
+- 👀 I’m interested in Frontend Development, technical seo and website optimization.
 - 📫 If you see anything I can help you with, feel free to email me. E-mail: mikolaj@syki.pl
 
 ## Connect with me:
