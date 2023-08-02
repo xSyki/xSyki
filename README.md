@@ -29,6 +29,8 @@ Want to know more about me or see my projects? Visit: <https://syki.pl/>
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Yii" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" style="padding-right:10px;" />
 
+&nbsp;&nbsp;
+
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
