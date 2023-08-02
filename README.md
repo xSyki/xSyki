@@ -34,9 +34,9 @@ Want to know more about me or see my projects? Visit: <https://syki.pl/>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Why you should learn Web Scraping?](https://syki.pl/blog/why-you-should-learn-web-scraping)
-- [Test your Markdown Renderer](https://syki.pl/blog/test-your-markdown-renderer)
-- [What is CRO and How to Calculate it?](https://syki.pl/blog/what-is-cro-and-how-to-calculate-it)
-- [The Ultimate Guide to SEO Tools for Better Web Ranking](https://syki.pl/blog/the-ultimate-guide-to-seo-tools-for-better-web-ranking)
-- [Lighthouse Game Changer. Scan Your Entire Site with Unlighthouse](https://syki.pl/blog/lighthouse-game-changer-scan-your-entire-site-with-unlighthouse)
+- [Why you should learn Web Scraping?](https://syki.pl/en/blog/why-you-should-learn-web-scraping)
+- [Test your Markdown Renderer](https://syki.pl/en/blog/test-your-markdown-renderer)
+- [What is CRO and How to Calculate it?](https://syki.pl/en/blog/what-is-cro-and-how-to-calculate-it)
+- [The Ultimate Guide to SEO Tools for Better Web Ranking](https://syki.pl/en/blog/the-ultimate-guide-to-seo-tools-for-better-web-ranking)
+- [Lighthouse Game Changer. Scan Your Entire Site with Unlighthouse](https://syki.pl/en/blog/lighthouse-game-changer-scan-your-entire-site-with-unlighthouse)
 <!-- BLOG-POST-LIST:END -->
