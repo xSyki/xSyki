@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Syki
 
-- 👀 I’m Full Stack Developer. My main stack is Next.js/Gatsby, Express and PostgreSQL/MongoDB. Interested in technical SEO, CRO and website optimization.
-- 📫 If you see anything I can help you with, feel free to email me. E-mail: <mikolaj@syki.pl>
+- I’m Full Stack Developer. My main stack is Next.js/Gatsby, React Native(Expo), NestJS and PostgreSQL/MongoDB.
+- If you see anything I can help you with, feel free to email me. E-mail: <mikolaj@syki.pl>
 
 Want to know more about me or see my projects? Visit: <https://syki.pl/>
 
@@ -34,6 +34,7 @@ Want to know more about me or see my projects? Visit: <https://syki.pl/>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Your Company Cannot Afford Not to Program in JS](https://syki.pl/en/blog/your-company-cannot-afford-not-to-program-in-js)
 - [Why you should learn Web Scraping?](https://syki.pl/en/blog/why-you-should-learn-web-scraping)
 - [Test your Markdown Renderer](https://syki.pl/en/blog/test-your-markdown-renderer)
