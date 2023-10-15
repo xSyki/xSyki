@@ -34,9 +34,9 @@ Want to know more about me or see my projects? Visit: <https://syki.pl/>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [How Many Dependencies Does Your Project Really Have?](https://syki.pl/en/blog/how-many-dependencies-does-your-project-really-have)
 - [Your Company Cannot Afford Not to Program in JS](https://syki.pl/en/blog/your-company-cannot-afford-not-to-program-in-js)
 - [Why you should learn Web Scraping?](https://syki.pl/en/blog/why-you-should-learn-web-scraping)
 - [Test your Markdown Renderer](https://syki.pl/en/blog/test-your-markdown-renderer)
 - [What is CRO and How to Calculate it?](https://syki.pl/en/blog/what-is-cro-and-how-to-calculate-it)
-- [The Ultimate Guide to SEO Tools for Better Web Ranking](https://syki.pl/en/blog/the-ultimate-guide-to-seo-tools-for-better-web-ranking)
 <!-- BLOG-POST-LIST:END -->
