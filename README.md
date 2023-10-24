@@ -10,6 +10,9 @@ Want to know more about me or see my projects? Visit: <https://syki.pl/>
 [![website](./img/globe-light.svg)](https://syki.pl#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://syki.pl#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/x.png)](https://twitter.com/x_syki#gh-light-mode-only)
+[![website](./img/x-white.png)](https://twitter.com/x_syki#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mikołajsykuła/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mikołajsykuła/#gh-dark-mode-only)
 
@@ -34,6 +37,7 @@ Want to know more about me or see my projects? Visit: <https://syki.pl/>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Tooling for the Solo Developer: The Specialized Toolkit](https://syki.pl/en/blog/tooling-for-the-solo-developer-the-specialized-toolkit)
 - [How Many Dependencies Does Your Project Really Have?](https://syki.pl/en/blog/how-many-dependencies-does-your-project-really-have)
 - [Your Company Cannot Afford Not to Program in JS](https://syki.pl/en/blog/your-company-cannot-afford-not-to-program-in-js)
