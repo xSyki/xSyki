@@ -37,7 +37,6 @@ Want to know more about me or see my projects? Visit: <https://syki.pl/>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Tooling for the Solo Developer: The Specialized Toolkit](https://syki.pl/en/blog/tooling-for-the-solo-developer-the-specialized-toolkit)
 - [How Many Dependencies Does Your Project Really Have?](https://syki.pl/en/blog/how-many-dependencies-does-your-project-really-have)
 - [Your Company Cannot Afford Not to Program in JS](https://syki.pl/en/blog/your-company-cannot-afford-not-to-program-in-js)
