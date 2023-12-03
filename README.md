@@ -36,9 +36,9 @@ Want to know more about me or see my projects? Visit: <https://syki.pl/>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Never Kill Your Products](https://syki.dev/blog/never-kill-your-products)
+- [Why You Should Be Full Stack?](https://syki.dev/blog/why-you-should-be-full-stack)
 - [You Should Have Your Own Pi Server](https://syki.dev/blog/you-should-have-your-own-pi-server)
 - [Tooling for the Solo Developer: The Specialized Toolkit](https://syki.dev/blog/tooling-for-the-solo-developer-the-specialized-toolkit)
 - [How Many Dependencies Does Your Project Really Have?](https://syki.dev/blog/how-many-dependencies-does-your-project-really-have)
-- [Your Company Cannot Afford Not to Program in JS](https://syki.dev/blog/your-company-cannot-afford-not-to-program-in-js)
-- [Why you should learn Web Scraping?](https://syki.dev/blog/why-you-should-learn-web-scraping)
 <!-- BLOG-POST-LIST:END -->
