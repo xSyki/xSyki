@@ -36,9 +36,9 @@ Want to know more about me or see my projects? Visit: <https://syki.pl/>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of Web Scraping: Ethics, Efficiency, and Impact](https://syki.dev/blog/evolution-of-web-scraping)
 - [AI tools for web developers you need to follow](https://syki.dev/blog/ai-tools-for-web-developers-you-need-to-follow)
 - [100 Bucket List Ideas for Programmers](https://syki.dev/blog/100-bucket-list-ideas-for-programmers)
 - [Never Kill Your Products](https://syki.dev/blog/never-kill-your-products)
 - [Why You Should Be Full Stack?](https://syki.dev/blog/why-you-should-be-full-stack)
-- [You Should Have Your Own Pi Server](https://syki.dev/blog/you-should-have-your-own-pi-server)
 <!-- BLOG-POST-LIST:END -->
