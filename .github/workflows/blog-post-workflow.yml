@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in syki.pl posts
+      - name: Pull in syki.dev posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://syki.pl/rss.xml/en'
+          feed_list: 'https://syki.dev/rss.xml'

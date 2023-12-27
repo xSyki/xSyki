@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Syki
 
 - I’m Full Stack Developer. My main stack is Next.js/Gatsby, React Native(Expo), NestJS and PostgreSQL/MongoDB.
-- If you see anything I can help you with, feel free to email me. E-mail: <mikolaj@syki.pl>
+- If you see anything I can help you with, feel free to email me. E-mail: <mikolaj@syki.dev>
 
-Want to know more about me or see my projects? Visit: <https://syki.pl/>
+Want to know more about me or see my projects? Visit: <https://syki.dev>
 
 ## Connect with me
 
-[![website](./img/globe-light.svg)](https://syki.pl#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://syki.pl#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://syki.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://syki.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/x.png)](https://twitter.com/x_syki#gh-light-mode-only)
 [![website](./img/x-white.png)](https://twitter.com/x_syki#gh-dark-mode-only)
@@ -36,6 +36,7 @@ Want to know more about me or see my projects? Visit: <https://syki.pl/>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
+
 - [The Evolution of Web Scraping: Ethics, Efficiency, and Impact](https://syki.dev/blog/evolution-of-web-scraping)
 - [AI tools for web developers you need to follow](https://syki.dev/blog/ai-tools-for-web-developers-you-need-to-follow)
 - [100 Bucket List Ideas for Programmers](https://syki.dev/blog/100-bucket-list-ideas-for-programmers)
