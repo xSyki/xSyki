@@ -36,9 +36,9 @@ Want to know more about me or see my projects? Visit: <https://syki.dev>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Image Optimization For Developers](https://syki.dev/blog/web-image-optimization-for-developers)
+- [10 VSCode Extensions You Have To Know](https://syki.dev/blog/10-vscode-extensions-you-have-to-know)
 - [My Experience with Next.js vs Gatsby](https://syki.dev/blog/my-experience-with-next-js-vs-gatsby)
 - [The Evolution of Web Scraping: Ethics, Efficiency, and Impact](https://syki.dev/blog/evolution-of-web-scraping)
 - [AI tools for web developers you need to follow](https://syki.dev/blog/ai-tools-for-web-developers-you-need-to-follow)
-- [100 Bucket List Ideas for Programmers](https://syki.dev/blog/100-bucket-list-ideas-for-programmers)
-- [Never Kill Your Products](https://syki.dev/blog/never-kill-your-products)
 <!-- BLOG-POST-LIST:END -->
