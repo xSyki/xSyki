@@ -36,9 +36,9 @@ Want to know more about me or see my projects? Visit: <https://syki.dev>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Using Express, Start Using NestJS](https://syki.dev/blog/stop-using-express-start-using-nestjs)
+- [10 Reasons Why JavaScript Is the Best First Programming Language](https://syki.dev/blog/10-reasons-why-javascript-is-the-best-first-programming-language)
 - [Your First GitHub Contribution](https://syki.dev/blog/your-first-github-contribution)
 - [Web Image Optimization For Developers](https://syki.dev/blog/web-image-optimization-for-developers)
 - [10 VSCode Extensions You Have To Know](https://syki.dev/blog/10-vscode-extensions-you-have-to-know)
-- [My Experience with Next.js vs Gatsby](https://syki.dev/blog/my-experience-with-next-js-vs-gatsby)
-- [The Evolution of Web Scraping: Ethics, Efficiency, and Impact](https://syki.dev/blog/evolution-of-web-scraping)
 <!-- BLOG-POST-LIST:END -->
