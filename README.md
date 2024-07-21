@@ -36,9 +36,9 @@ Want to know more about me or see my projects? Visit: <https://syki.dev>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Never Use WordPress as a Headless CMS](https://syki.dev/blog/never-use-wordpress-as-a-headless-cms)
+- [Never Use WordPress As A Headless CMS](https://syki.dev/blog/never-use-wordpress-as-a-headless-cms)
 - [Enhancing SEO in Next.js Applications: Techniques and Tools](https://syki.dev/blog/enhancing-seo-in-next-js-applications-techniques-and-tools)
-- [Fastest Way to Deploy Any Node.js App](https://syki.dev/blog/fastest-way-to-deploy-any-node-js-app)
-- [Mastering Uptime Kuma: Your Ultimate Guide to Effective Uptime Monitoring](https://syki.dev/blog/mastering-uptime-kuma-your-ultimate-guide-to-effective-uptime-monitoring)
+- [Fastest Way To Deploy Any Node.js App](https://syki.dev/blog/fastest-way-to-deploy-any-node-js-app)
+- [Mastering Uptime Kuma: Your Ultimate Guide To Effective Uptime Monitoring](https://syki.dev/blog/mastering-uptime-kuma-your-ultimate-guide-to-effective-uptime-monitoring)
 - [Stop Using Express, Start Using NestJS](https://syki.dev/blog/stop-using-express-start-using-nestjs)
 <!-- BLOG-POST-LIST:END -->
