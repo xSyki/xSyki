@@ -36,9 +36,9 @@ Want to know more about me or see my projects? Visit: <https://syki.dev>
 ## Latest blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Personal Projects: The Value of Building for Yourself](https://syki.dev/blog/personal-projects-the-value-of-building-for-yourself)
 - [From Idea To MVP: 5 Lessons Learned](https://syki.dev/blog/from-idea-to-mvp-5-lessons-learned)
 - [Never Use WordPress As A Headless CMS](https://syki.dev/blog/never-use-wordpress-as-a-headless-cms)
 - [Enhancing SEO in Next.js Applications: Techniques and Tools](https://syki.dev/blog/enhancing-seo-in-next-js-applications-techniques-and-tools)
 - [Fastest Way To Deploy Any Node.js App](https://syki.dev/blog/fastest-way-to-deploy-any-node-js-app)
-- [Mastering Uptime Kuma: Your Ultimate Guide To Effective Uptime Monitoring](https://syki.dev/blog/mastering-uptime-kuma-your-ultimate-guide-to-effective-uptime-monitoring)
 <!-- BLOG-POST-LIST:END -->
