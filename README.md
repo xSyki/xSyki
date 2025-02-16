@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Syki
 
-- I’m Full Stack Developer. My main stack is Next.js/Gatsby, React Native(Expo), NestJS and PostgreSQL/MongoDB.
+- I’m Full Stack Developer. My main stack is React, Next.js, React Native(Expo), NestJS and PostgreSQL/MongoDB.
 - If you see anything I can help you with, feel free to email me. E-mail: <mikolaj@syki.dev>
 
 Want to know more about me or see my projects? Visit: <https://syki.dev>
